@@ -3,5 +3,6 @@ Given a string and a non-negative int n, return a larger string that is n copies
 
 """
 
+
 def string_times(str, n):
-    pass
+    return str * n
